@@ -10,19 +10,16 @@ class Header extends Component {
         <header>
 
           <div className="logo">
-            LOGO
+            places ive been
           </div>
 
           <nav>
             <ul>
               <li className="first">
-                <Link to='/'>Home</Link>
+                <Link to='/'>map</Link>
               </li>
               <li>
-                <Link to='/Products'>Products</Link>
-              </li>
-              <li className="last">
-                <Link to='/Contact'>Contact</Link>
+                <Link to='/About'>about</Link>
               </li>
             </ul>
           </nav>

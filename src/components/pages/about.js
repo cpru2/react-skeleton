@@ -1,11 +1,11 @@
 import React, { Component } from 'react';
 
-class Products extends Component {
+class About extends Component {
   render() {
     return (
       <div className="container-fluid">
 
-        <h1>Products
+        <h1>About
         </h1>
 
         <p>Lorem ipsum....
@@ -17,4 +17,4 @@ class Products extends Component {
   }
 }
 
-export default Products;
+export default About;
